@@ -14,4 +14,4 @@ Assumes SBCL.
 
 # more information
 
-For more information on the motivation, design, and usage of this function, see this blog post.
+For more information on the motivation, design, and usage of this function, see [this blog post](http://www.dustmop.io/blog/2015/07/22/discrete-arctan-in-6502/).
